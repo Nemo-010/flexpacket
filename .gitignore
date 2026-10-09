@@ -13,6 +13,5 @@ src/flexpacket
 src/flexpacket_*
 use/*/*
 build
-appimage/flexpacket/usr/bin/
 *.AppImage
 *.deb     

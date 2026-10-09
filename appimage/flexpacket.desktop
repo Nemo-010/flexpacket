@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=FlexPacket
+Comment=Cross-platform packet radio client
+Exec=flexpacket
+Icon=flexpacket
+Terminal=false
+StartupWMClass=flexpacket
+Categories=HamRadio;Network;
+Keywords=packet radio;amateur radio;ham radio;AX.25;KISS;
